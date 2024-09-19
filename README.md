@@ -1,2 +1,2 @@
-# Task-1
+# PROJECT-1
 To predict if a passenger survived or not in titanic ship
